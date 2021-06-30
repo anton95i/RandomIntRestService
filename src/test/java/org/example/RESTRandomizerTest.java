@@ -29,5 +29,6 @@ public class RESTRandomizerTest {
 
         // Assert
         Assertions.assertTrue(actualValue <= 600);
+
     }
 }
